@@ -1,2 +1,2 @@
-# Business-process-rchitect
+# Business-process-Architect
 Нейросетевая экосистема архитектора бизнес-процессов: презентация В.Н.Пунчик
